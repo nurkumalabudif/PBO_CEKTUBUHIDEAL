@@ -146,7 +146,7 @@ public class idealframe extends javax.swing.JFrame {
         jLabel6.setFont(new java.awt.Font("Tahoma", 0, 13)); // NOI18N
         jLabel6.setText("Berat Badan Ideal");
         getContentPane().add(jLabel6);
-        jLabel6.setBounds(50, 290, 100, 30);
+        jLabel6.setBounds(50, 290, 130, 30);
 
         jLabel7.setFont(new java.awt.Font("Tahoma", 0, 13)); // NOI18N
         jLabel7.setText("Hasil Diagnosa Kesehatan");
